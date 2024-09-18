@@ -1,0 +1,18 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`it matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Card Drawing App
+    </h1>
+    <button>
+      Draw Card
+    </button>
+    <button>
+      Shuffle Deck
+    </button>
+    <div />
+  </div>
+</DocumentFragment>
+`;
